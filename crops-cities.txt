@@ -1,0 +1,22 @@
+crops-cities list
+
+Cana-de-açúcar: Piracicaba, Ribeirão Preto, Sertãozinho
+Milho: Ribeirão Preto, Bauru, Sorocaba
+Soja: Ribeirão Preto, São Carlos, Ourinhos
+Café: Jaú, Botucatu, Franca
+Laranja: Limeira, Sorocaba, Bauru
+Algodão: Presidente Prudente, Marília, Assis
+Feijão: Campinas, Araraquara, Ribeirão Preto
+Batata: Itapetininga, Campinas, Piracicaba
+Tomate: Campinas, Sorocaba, São José do Rio Preto
+Mandioca: Presidente Prudente, Assis, Dracena
+Banana: Itapetininga, Campinas, Sorocaba
+Uva: Jundiaí, São Roque, Itatiba
+Trigo: Itapetininga, Sorocaba, Campinas
+Arroz: Ourinhos, Assis, Presidente Prudente
+Cebola: Itapetininga, Campinas, Sorocaba
+Maçã: Jundiaí, São Roque, Itatiba
+Cacau: Ibiúna, Piedade, Itararé
+Mamão: Bauru, Campinas, Sorocaba
+Abacaxi: Itapetininga, Campinas, Sorocaba
+Manga: Itapetininga, Campinas, Sorocaba
