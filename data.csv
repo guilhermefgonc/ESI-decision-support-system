@@ -1,21 +1,21 @@
 Crops,Time,Cities
-Cana-de-açúcar,Plantio ao longo do ano,Piracicaba, Ribeirão Preto, Sertãozinho
-Milho,Plantio na primavera,Ribeirão Preto, Bauru, Sorocaba
-Soja,Plantio na primavera,Ribeirão Preto, São Carlos, Ourinhos
-Café,Plantio na primavera,Jaú, Botucatu, Franca
-Laranja,Plantio na primavera,Limeira, Sorocaba, Bauru
-Algodão,Plantio na primavera,Presidente Prudente, Marília, Assis
-Feijão,Plantio na primavera,Campinas, Araraquara, Ribeirão Preto
-Batata,Plantio na primavera,Itapetininga, Campinas, Piracicaba
-Tomate,Plantio na primavera,Campinas, Sorocaba, São José do Rio Preto
-Mandioca,Plantio na primavera,Presidente Prudente, Assis, Dracena
-Banana,Plantio ao longo do ano,Itapetininga, Campinas, Sorocaba
-Uva,Plantio na primavera,Jundiaí, São Roque, Itatiba
-Trigo,Plantio no outono,Itapetininga, Sorocaba, Campinas
-Arroz,Plantio na primavera,Ourinhos, Assis, Presidente Prudente
-Cebola,Plantio no outono,Itapetininga, Campinas, Sorocaba
-Maçã,Plantio na primavera,Jundiaí, São Roque, Itatiba
-Cacau,Plantio na primavera,Ibiúna, Piedade, Itararé
-Mamão,Plantio ao longo do ano,Bauru, Campinas, Sorocaba
-Abacaxi,Plantio na primavera,Itapetininga, Campinas, Sorocaba
-Manga,Plantio na primavera,Itapetininga, Campinas, Sorocaba
+Cana-de-acucar,Plantio ao longo do ano,Piracicaba,Ribeirao Preto,Sertaozinho,Rio Claro
+Milho,Plantio na primavera,Ribeirao Preto,Bauru,Sorocaba,Avare
+Soja,Plantio na primavera,Ribeirao Preto,Sao Carlos,Ourinhos,Avare
+Cafe,Plantio na primavera,Jau,Botucatu,Franca,Sao Joao da Boa Vista
+Laranja,Plantio na primavera,Limeira,Sorocaba,Bauru,Pirassununga
+Algodao,Plantio na primavera,Presidente Prudente,Marilia,Assis
+Feijao,Plantio na primavera,Campinas,Araraquara,Ribeirao Preto
+Batata,Plantio na primavera,Itapetininga,Campinas,Piracicaba
+Tomate,Plantio na primavera,Campinas,Sorocaba,Sao Jose do Rio Preto
+Mandioca,Plantio na primavera,Presidente Prudente,Assis,Dracena
+Banana,Plantio ao longo do ano,Itapetininga,Campinas,Sorocaba
+Uva,Plantio na primavera,Jundiai,Sao Roque,Itatiba,Valinhos
+Trigo,Plantio no outono,Itapetininga,Sorocaba,Campinas
+Arroz,Plantio na primavera,Ourinhos,Assis,Presidente Prudente
+Cebola,Plantio no outono,Itapetininga,Campinas,Sorocaba
+Maca,Plantio na primavera,Jundiai,Sao Roque,Itatiba
+Cacau,Plantio na primavera,Ibiuna,Piedade,Itarare
+Mamao,Plantio ao longo do ano,Bauru,Campinas,Sorocaba
+Abacaxi,Plantio na primavera,Itapetininga,Campinas,Sorocaba
+Manga,Plantio na primavera,Itapetininga,Campinas,Sorocaba
