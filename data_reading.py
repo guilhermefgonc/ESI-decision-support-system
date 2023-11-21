@@ -6,7 +6,7 @@ COORDINATES_LIST = []
 TIME_LIST = []
 
 # reading crops data
-with open('data\\data.csv', 'r') as file1:
+with open('data\\crops.csv', 'r') as file1:
     reader1 = csv.DictReader(file1)
     
     for line in reader1:
@@ -31,7 +31,7 @@ with open('data\\cities.csv', 'r') as file3:
         COORDINATES_LIST.append((latitude, longitude))
 
 # reading time
-with open('data\\data.csv', 'r') as file4:
+with open('data\\crops.csv', 'r') as file4:
     reader4 = csv.DictReader(file4)
     
     for line in reader4:
