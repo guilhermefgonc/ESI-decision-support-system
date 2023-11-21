@@ -78,7 +78,7 @@ button_search.grid(row=0, column=1, padx=(10, 0))
 # setting map view
 map_widget = tkintermapview.TkinterMapView(master=tabs.tab("Mapa"), width=1000, height=800, corner_radius=0)
 map_widget.grid(row=1, column=0, columnspan=2, pady=30) 
-map_widget.set_tile_server("https://mt0.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&s=Ga", max_zoom=20)
+map_widget.set_tile_server("https://mt0.google.com/vt/lyrs=s&hl=en&x={x}&y={y}&z={z}&s=Ga", max_zoom=20)
 map_widget.set_position(-22.320545, -49.071004) # bauru
 map_widget.set_zoom(15)
 
