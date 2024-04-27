@@ -4,6 +4,12 @@
 
 Neste projeto, desenvolvi um aplicativo utilizando Python, onde o usuário seleciona um tipo de cultura que deseja plantar e o programa retorna as melhores épocas e cidades para o plantio. Junto a aplicação, está integrado um mapa para realizar a verificação das cidades
 
+### Menu principal
+![Menu](https://github.com/guilhermefgonc/ESI-decision-support-system/blob/main/images/Menu.png)
+
+### Mapa
+![Mapa](https://github.com/guilhermefgonc/ESI-decision-support-system/blob/main/images/Mapa.png)
+
 ## Como Rodar o Programa
 
 1. **Clonagem do Repositório:**
