@@ -1,6 +1,8 @@
 # ESI Decision Support System
 
-Projeto de Sistema de Apoio à Decisão
+## Projeto de Sistema de Apoio à Decisão
+
+Neste projeto, desenvolvi um aplicativo utilizando Python, onde o usuário seleciona um tipo de cultura que deseja plantar e o programa retorna as melhores épocas e cidades para o plantio. Junto a aplicação, está integrado um mapa para realizar a verificação das cidades
 
 ## Como Rodar o Programa
 
